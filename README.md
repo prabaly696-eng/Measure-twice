@@ -60,7 +60,7 @@ You need: a phone with Chrome, a free GitHub account and these files on your pho
 1. **Create the files on your phone.** Extract the zip so that all files are in one folder.
 2. **Make a GitHub account** at github.com (a parent or guardian can help). Confirm your email.
 3. **Create a repository.** Tap the **+** button, then **New repository**.
-   - Repository name: `measure-twice`. This is a project site, so the address will be `https://prabaly696-eng.github.io/measure-twice/` (note the `/measure-twice/` part).
+   - Repository name: `measure-twice`. This is a project site, so the address will be `https://prabaly696-eng.github.io/Measure-twice/` (note the `/Measure-twice/` part).
    - Choose **Public**. Tap **Create repository**.
 4. **Upload the files.** On the new repository page, tap **uploading an existing file** (or **Add file**, then **Upload files**). Tap to choose files, open your folder, select **all** the files and tap Open. Wait until all files show in the list.
 5. **Save.** Scroll down and tap **Commit changes**.
@@ -96,7 +96,7 @@ Do this only after you have real visitors. A domain costs money every year, so d
 Search Console shows whether Google can find and show your pages. It does not guarantee any ranking.
 
 1. Go to search.google.com/search-console and sign in with a Google account.
-2. Choose **URL prefix** and enter your full address, for example `https://prabaly696-eng.github.io/measure-twice/`.
+2. Choose **URL prefix** and enter your full address, for example `https://prabaly696-eng.github.io/Measure-twice/`.
 3. Choose the **HTML tag** verification method. Google shows a line starting with `<meta name="google-site-verification"`.
 4. Paste that line into `index.html` in the place marked `PLACEHOLDER (Google Search Console)`. Commit the change, wait a minute, then tap **Verify** in Search Console.
 5. Open **Sitemaps** and submit `sitemap.xml`. `robots.txt` is only read by crawlers at the root of a host (`prabaly696-eng.github.io/robots.txt`), so on a project site it has no effect. Submitting `sitemap.xml` in Search Console is what matters.
