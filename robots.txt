@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://prabaly696-eng.github.io/measure-twice/sitemap.xml
+Sitemap: https://prabaly696-eng.github.io/Measure-twice/sitemap.xml
