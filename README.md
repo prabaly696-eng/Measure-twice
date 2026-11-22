@@ -31,7 +31,7 @@ Every file sits in one flat folder on purpose. That makes it easy to upload from
 
 These are placeholders because the details are yours to choose. Replace the remaining ones when you can. The site works without the email, but a real contact address helps trust.
 
-1. **Website address.** Already set to `https://prabaly696-eng.github.io/measure-twice/` in every canonical link, Open Graph tag, `robots.txt` and `sitemap.xml`. Your repository must be named exactly `measure-twice`.
+1. **Website address.** Already set to `https://prabaly696-eng.github.io/Measure-twice/` in every canonical link, Open Graph tag, `robots.txt` and `sitemap.xml`. Your repository must be named exactly `Measure-twice`.
 2. **Contact email.** Done: `measuretwice.help@gmail.com` is on the Contact page as a clickable link. To change it later, edit `contact.html` and replace it in the line that starts with "Email:".
 3. **About text.** Done. It uses the description you provided.
 4. **Hosting service name** in `privacy.html`. Done: "GitHub Pages, run by GitHub, Inc."
